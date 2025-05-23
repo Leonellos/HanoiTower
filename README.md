@@ -6,7 +6,7 @@
 
 - Для этого в Visual Studio нажмите на вкладку `git`.
 
-![image.png](attachment:https://github.com/Leonellos/HanoiTower/tree/master/Images/image.png)
+![image.png](Images/image.png)
 
 - Клонировать репозиторий.
 
