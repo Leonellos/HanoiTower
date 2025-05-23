@@ -6,32 +6,32 @@
 
 - Для этого в Visual Studio нажмите на вкладку `git`.
 
-![image.png](attachment:image.png)
+![image.png](attachment:images/image.png)
 
 - Клонировать репозиторий.
 
-![image-2.png](attachment:image-2.png)
+![image-2.png](attachment:images/image-2.png)
 
 - Скопируйте ссылку на репозиторий ([`https://github.com/Leonellos/HanoiTower.git`](https://github.com/Leonellos/HanoiTower.git)) и вставьте в строку.
 
-![image-3.png](attachment:image-3.png)
+![image-3.png](attachment:images/image-3.png)
 
 - Укажите путь, где вам будет удобно сохранить копию репозитория и `клонируйте`.
 
-![image-4.png](attachment:image-4.png)
+![image-4.png](attachment:images/image-4.png)
 
 - Если после копирования отроектся пустое окно, заходите в `обозреватель справа` и кликните на выпадающий список.
 
-![image-5.png](attachment:image-5.png)
+![image-5.png](attachment:images/image-5.png)
 
 - Зайдите в `main.cpp`
 
-![image-6.png](attachment:image-6.png)
+![image-6.png](attachment:images/image-6.png)
 
 
 - Вы увидите небольшой код, который запускает игру `Ханойская башня`.  
 
-![image-8.png](attachment:image-8.png)
+![image-8.png](attachment:images/image-8.png)
 
 - Вы можете его запустить и задать, например, количество дисков, равное 3.  
 Башня постепенно переложится с левой палки на правую. Это пример того, что вам необходимо будет реализовать.
