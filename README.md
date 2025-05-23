@@ -10,28 +10,28 @@
 
 - Клонировать репозиторий.
 
-![image-2.png](attachment:Images/image-2.png)
+![image-2.png](Images/image-2.png)
 
 - Скопируйте ссылку на репозиторий ([`https://github.com/Leonellos/HanoiTower.git`](https://github.com/Leonellos/HanoiTower.git)) и вставьте в строку.
 
-![image-3.png](attachment:images/image-3.png)
+![image-3.png](Images/image-3.png)
 
 - Укажите путь, где вам будет удобно сохранить копию репозитория и `клонируйте`.
 
-![image-4.png](attachment:images/image-4.png)
+![image-4.png](Images/image-4.png)
 
 - Если после копирования отроектся пустое окно, заходите в `обозреватель справа` и кликните на выпадающий список.
 
-![image-5.png](attachment:images/image-5.png)
+![image-5.png](Images/image-5.png)
 
 - Зайдите в `main.cpp`
 
-![image-6.png](attachment:images/image-6.png)
+![image-6.png](Images/image-6.png)
 
 
 - Вы увидите небольшой код, который запускает игру `Ханойская башня`.  
 
-![image-8.png](attachment:images/image-8.png)
+![image-8.png](Images/image-8.png)
 
 - Вы можете его запустить и задать, например, количество дисков, равное 3.  
 Башня постепенно переложится с левой палки на правую. Это пример того, что вам необходимо будет реализовать.
