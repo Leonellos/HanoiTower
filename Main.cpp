@@ -1,8 +1,7 @@
 // main.cpp
 #include "Hanoi.h"
 #include <iostream>
-#include <chrono>
-#include <thread>
+
 
 int main() {
     setlocale(LC_ALL, "Russian");
